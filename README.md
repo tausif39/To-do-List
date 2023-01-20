@@ -3,17 +3,6 @@
 
 A simple todo application
 
-<p align="center">
-  <a href="https://github.com/vishal2376/todo/issues">
-    <img src="https://img.shields.io/github/issues/vishal2376/todo"/> 
-  </a> 
-  <a href="https://github.com/vishal2376/todo/stargazers">
-    <img src="https://img.shields.io/github/stars/vishal2376/todo"/> 
-  </a>
-    <a href="https://github.com/vishal2376/todo/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/vishal2376/todo"/> 
-  </a>
-</p>
 
 
 ## Screeshots :
